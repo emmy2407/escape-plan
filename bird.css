@@ -1,0 +1,22 @@
+body{
+    background-color: #4d4d33;
+}
+canvas {
+    border: 2px solid wheat;
+    background-color: #4d4d33;
+    width: 80%;
+}
+    
+* {
+   -webkit-user-select: none; /*disable text selection */
+}
+.btn{
+    margin-left: 45%;
+    width: 100px;
+    height: 50px;
+    background-color: red;
+    border: 5px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-bottom: 5px;
+}
